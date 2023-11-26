@@ -1,5 +1,5 @@
 # IBM_Data_Science_Capstone_Project
-Welcome to the IBM Data Science Capstone Project! This project is part of a larger initiative undertaken by a global IT and business consulting services firm. As a Data Scientist , you have been recently hired to assist with this project, leveraging your skills in data collection, analysis, and visualization.
+Welcome to the IBM Data Science Capstone Project! This project is part of a larger initiative undertaken by a global IT and business consulting services firm. As a Data Scientist, you have been recently hired to assist with this project, leveraging your skills in data collection, analysis, and visualization.
 
 # Project Overview
 The primary goal of this project is to analyze data from various sources to identify trends and insights regarding emerging skills in the IT industry. The organization you work for is renowned for its expertise in IT solutions and has a team of highly experienced IT consultants. To remain competitive in a rapidly evolving technological landscape, your firm regularly conducts data analysis to understand future skill requirements.
@@ -50,7 +50,7 @@ To begin your journey with the IBM Data Science Capstone Project, follow these s
 # Acknowledgements
 I would also like to extend my sincere appreciation to Coursera for offering the Data Science course that laid the foundation for this project. The course equipped me with essential knowledge and skills in data analysis, visualization, and presentation, which have been instrumental in the successful completion of this project.
 
-Furthermore, I am deeply grateful to IBM for their contribution to this project. Leveraging IBM Cognos Analytics as a powerful tool for creating interactive dashboards has greatly enhanced the visualization and storytelling capabilities of the data, enabling me to present my findings in a compelling and engaging manner.
+Furthermore, I am deeply grateful to IBM for their contribution to this project. Leveraging IBM Cognos Science as a powerful tool for creating interactive dashboards has greatly enhanced the visualization and storytelling capabilities of the data, enabling me to present my findings in a compelling and engaging manner.
 
 I would like to acknowledge and thank the open-source community and the developers of the libraries and tools used throughout this project. Their dedication to creating accessible and robust resources has played a significant role in the success of this capstone project.
 
